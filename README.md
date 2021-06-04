@@ -6,8 +6,8 @@ This is the source code for our submission to NeurIPS 2021.
 
 Repo description:
 
-  * A.
-  * B.
+  * The folder mnist contains code for the experiments on mnist dataset.
+  * The folder cifar10 contains code for the experiments on cifar10 dataset.
 
 Required libraries:
 
