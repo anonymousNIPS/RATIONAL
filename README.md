@@ -21,7 +21,13 @@ Required libraries:
   * pgmpy 0.1.11
   * dgl 0.4.2
   * pytorch 1.6.8
+  * torchvision 1.6.0
+  * seaborn 0.9.0
+  * pyitlib 0.2.2
+  * knockpy 1.0.5
   
 To install above libraries:
 
 `pip install -r requirements.txt`
+
+The knockpy library might need manual installation from [here]( https://pypi.org/project/knockpy/).
