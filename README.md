@@ -5,7 +5,8 @@ This is the source code for our submission to NeurIPS 2021.
 ![Image of Yaktocat](https://github.com/anonymousNIPS/RATIONAL/blob/a00eb22559952928625a3854a08ba769f853b843/figs/DeepEx-2.png)
 
 Repo description:
-
+  
+  * The provided notebooks are compiled in Python 3.6.7.
   * The folder mnist contains code for the experiments on mnist dataset.
   * The folder cifar10 contains code for the experiments on cifar10 dataset.
 
