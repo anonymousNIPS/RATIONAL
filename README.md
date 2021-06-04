@@ -2,7 +2,7 @@
 
 This is the source code for our submission to NeurIPS 2021.
 
-![Image of Yaktocat](https://github.com/vunhatminh/PGMExplainer/blob/master/PGM_Node/Explain_GNN/view/GNNDiagram.png)
+![Image of Yaktocat](https://github.com/anonymousNIPS/RATIONAL/blob/a00eb22559952928625a3854a08ba769f853b843/figs/DeepEx-2.png)
 
 Repo description:
 
